@@ -44,6 +44,10 @@ ul{
  background-color: #b1e5f2;
  border-spacing: 0px;
 }
+
+td{
+    padding: 5%;
+}
 #t_white{
     background-color: #FFFFFF;
 }
@@ -74,6 +78,12 @@ ul{
     width: 240px;
     height: 150px;
 }
-span{
+
+
+#bool{
 color: rgb(27, 150, 221);
+}
+
+.yellow{
+    background-color: yellow;
 }
