@@ -1,4 +1,4 @@
-header {
+#site_header {
     background-size: 200px;
     background-image: url(../img/pattern.png);
     background-color: #4ea0ff;
@@ -7,4 +7,9 @@ header {
 #logo_header {
     width: 200px;
     margin-top: 30px;
+}
+
+.small_text{
+    font-size: smaller;
+    margin: 0%;
 }
